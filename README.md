@@ -1,2 +1,2 @@
 # hola_mundo
-Otro repositorio
+Repositorio principal
