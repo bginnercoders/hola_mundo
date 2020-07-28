@@ -1,2 +1,3 @@
 # hola_mundo
-Otro repositorio
+Este es un repositorio de prueba, testeando.
+Editanto el archivo readme
